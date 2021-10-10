@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 #########################variables############################
 restart_flag=1
 ostype='unknow'
